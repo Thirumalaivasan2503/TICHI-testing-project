@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-EMAIL = "muralikumar2712@gmail.com"
-PASSWORD = "!@27Murali2005"
+EMAIL = "thirumalaivasanr0@gmail.com"
+PASSWORD = "Thiru@2825"
 
 def test_valid_login(driver):
     wait = WebDriverWait(driver, 20)
