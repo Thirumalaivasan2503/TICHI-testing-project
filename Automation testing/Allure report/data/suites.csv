@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7099","test_unregistered_email","","2026-07-06","passed","2026-07-06","","test_unregistered_email","",""
+"","12763","test_invalid_password","","2026-07-06","passed","2026-07-06","","test_invalid_password","",""
+"","9998","test_empty_password","","2026-07-06","passed","2026-07-06","","test_empty_password","",""
+"","7516","test_invalid_email","","2026-07-06","passed","2026-07-06","","test_invalid_email","",""
+"","9932","test_valid_login","","2026-07-06","passed","2026-07-06","","test_valid_login","",""
+"","7260","test_empty_email","","2026-07-06","passed","2026-07-06","","test_empty_email","",""
